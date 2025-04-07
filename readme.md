@@ -1,11 +1,11 @@
 # Hey there, I'm Lionel! 👋
 
-I'm a coding enthusiast, an engineer-in-the-making, and growin with **@hackclub**. 
+I'm a coding aficionado, a top-tier engineer-in-the-making, and growing with **@hackclub**. I love pusheen!
 
 ## What I'm Up To:
 - **Coding Magic:** I am god (idk wut im doing)
 - **Efficiency** Can lock-in for at least 3 millaseconds min.
-- **Learning & Growing:** Suffering in AP Physics C: Mechanics with my occasional mental breakdowns.
+- **Learning & Growing:** Suffering in AP Physics C: Mechanics and AP Calc BC with my occasional mental breakdowns.
 > ready to test gravity 
 
 > 2025 goal: 300k spotify wrapped mins 
