@@ -1,17 +1,16 @@
 # Hey there, I'm Lionel! 👋
 
-I'm a coding enthusiast, an engineer-in-the-making, and a high school wizard rocking the tech world with **@hackclub**.
+I'm a coding enthusiast, an engineer-in-the-making, and growin with **@hackclub**. 
 
 ## What I'm Up To:
-- **Coding Magic:** Crafting lines of code that make the impossible possible.
-- **Building Dreams:** From apps to gadgets, I'm always tinkering with my next big project.
-- **Learning & Growing:** Navigating high school and tech with equal parts curiosity and caffeine.
+- **Coding Magic:** I am god (idk wut im doing)
+- **Efficiency** Can lock-in for at least 3 millaseconds min.
+- **Learning & Growing:** Suffering in AP Physics C: Mechanics with my occasional mental breakdowns.
+> ready to test gravity 
 
-> "Keep it cool, keep it coding!" 😎
+> 2025 goal: 300k spotify wrapped mins 
 
-Feel free to explore my repos, drop a comment, or just say hi. Let's build something awesome together! 
-
-(I know that was kinda cringy what you just read but like who cares) 
+Feel free to explore my repos, drop a comment. 
 
 
 ![WakaTime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=119&api_domain=hackatime.hackclub.com&theme=shadow_blue&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
