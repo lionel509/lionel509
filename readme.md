@@ -4,7 +4,7 @@ I'm a coding aficionado, a top-tier engineer-in-the-making, and growing with **@
 
 ## What I'm Up To:
 - **Coding Magic:** I am god (idk wut im doing)
-- **Efficiency** Can lock-in for at least 3 milliseconds min.
+- **Efficiency** Can lock-in for at least 3 milliseconds.
 - **Learning & Growing:** Suffering in AP Physics C: Mechanics and AP Calc BC with my occasional mental breakdowns.
 > ready to test gravity 
 
