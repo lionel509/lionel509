@@ -13,8 +13,8 @@ I'm a coding aficionado, a top-tier engineer-in-the-making, and growing with **@
 Feel free to explore my repos, drop a comment. 
 
 
-![WakaTime Stats]([https://github-readme-stats.hackclub.dev/api/wakatime?username=119&api_domain=hackatime.hackclub.com&theme=shadow_blue&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8](https://github-readme-stats.hackclub.dev/api/wakatime?username=119&api_domain=hackatime.hackclub.com&theme=ambient_gradient&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-))
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=119&api_domain=hackatime.hackclub.com&theme=ambient_gradient&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 
 
 
