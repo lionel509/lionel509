@@ -13,6 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lionel509&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=119&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=aura)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lionel509&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
