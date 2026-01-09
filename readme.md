@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on high-accuracy ML models and AI tools.<br>🤝 I’m looking for help with optimizing models and advanced system design.<br>🌱 I’m currently learning deep learning, systems engineering, automation.<br>💬 Ask me about machine learning, linux systems, aI tooling.<br>⚡ Fun fact 2025 spotify wraped 391k mins 
+🔭 I’m currently working on Idk what im working on. Your guess is as good as mine. <br>🤝 I’m looking for help with optimizing models and advanced system design.<br>🌱 I’m currently learning deep learning, systems engineering, automation.<br>💬 Ask me about machine learning, linux systems, aI tooling.<br>⚡ Fun fact 2025 spotify wraped 391k mins 
 
 
 ## 🌐 Socials:
